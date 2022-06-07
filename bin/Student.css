@@ -1,0 +1,19 @@
+#stud {
+	-fx-background-color: #cdd6e3;
+	-fx-background-radius: 10;
+}
+.button{
+	-fx-background-color: #21262d;
+	-fx-text-fill: white;
+}
+.Text{
+	-fx-color: white;
+}
+.combo-box > .combo-box-button-container {
+	-fx-background: black;
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}
+#student{
+	-fx-background-color: rgb(64, 0, 128);	
+}

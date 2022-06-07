@@ -1,0 +1,22 @@
+#register {
+	-fx-background-color: #cdd6e3;
+	-fx-background-radius: 10;
+}
+.button{
+	-fx-background-color: #21262d;
+	-fx-text-fill: white;
+}
+.Text{
+	-fx-color: white;
+}
+.label1{
+	-fx-color:white;
+}
+.combo-box > .combo-box-button-container {
+	-fx-background: black;
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}
+#areg{
+	-fx-background-color: #cdd6e3;
+}

@@ -1,0 +1,11 @@
+.button{
+	-fx-background-color: #21262d;
+	-fx-text-fill: white;
+}
+.Text{
+	-fx-color: white;
+}
+#admin {
+	-fx-background-color: #cdd6e3;
+	-fx-background-radius: 10;
+}
